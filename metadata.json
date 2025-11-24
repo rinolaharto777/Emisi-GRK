@@ -1,0 +1,5 @@
+{
+  "name": "EcoNav Indonesia - KP146 Calculator",
+  "description": "Aplikasi perhitungan emisi gas rumah kaca (GRK) kegiatan navigasi penerbangan sesuai KP146 Tahun 2021 (RNAV, IAP, SID, STAR, RNP2 Papua, A-SMGCS, Cross Level).",
+  "requestFramePermissions": []
+}
