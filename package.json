@@ -22,18 +22,5 @@
     "vite": "^6.2.0"
   }
 }
-// Contoh package.json
-{
-  "name": "aplikasi-saya",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build", // <-- Vercel akan mencari perintah ini
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    // ...
   }
 }
